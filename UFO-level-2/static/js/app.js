@@ -1,7 +1,7 @@
-// from data.js
+// get data from data.js
 const tableData = data;
 
-// Get unique list/set of countries, states, cities, and shapes;
+// list of countries, states, cities, and shapes;
 const countries = [...new Set(tableData.map(td => td.country))];
 const states = [...new Set(tableData.map(td => td.state))];
 const shapes = [...new Set(tableData.map(td => td.shape))];
