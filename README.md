@@ -5,9 +5,9 @@
 
 ![Aliens](alien_human-768x432.jpg)
 
-This respository displayed the eye-witness reports, and the collected data that shows the extra-terrestrial menace has come to Earth, and the `ALIENS-R-REAL`. All we need to do now is put this information online for the world to see and then the matter will finally be put to rest.
+This respository displayed the eye-witness reports, and the collected data that shows the extra-terrestrial menace has come to Earth. All we need to do now is put this information online for the world to see and then the matter will finally be put to rest.
 
-A Dynamic javascript and DOM manipulation was created to integrates various javascript [libraries provide](StarterCode/static/js/data.js) from D3 to Moments and pulls in data from a filtered javascript object to populate a table. Users can also filter the table data for specific values. I used JavaScript, HTML, and CSS, and D3.js to deploy the data on the web page.
+A Dynamic javascript and DOM manipulation was created to integrate various javascript [libraries provide](StarterCode/static/js/data.js) from D3 to moments, and pulled in data from a filtered javascript object, and populated to a table. Users can also filter the table data for specific values. I used JavaScript, HTML, CSS, and D3.js to deploy the data on the web page.
 
 ### Level 1: Automatic Table and Date Search
 * A basic HTML web page was created [index.html](StarterCode/index.html).
