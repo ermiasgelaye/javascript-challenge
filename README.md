@@ -40,4 +40,4 @@ A Dynamic javascript and DOM manipulation was created to integrate various javas
 
 ### Copyright
 
-Trilogy Education Services © 2019. All Rights Reserved.
+Trilogy Education Services © 2020. All Rights Reserved.
