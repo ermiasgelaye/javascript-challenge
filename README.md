@@ -34,7 +34,7 @@ A Dynamic javascript and DOM manipulation was created to integrate various javas
 
 ### Dataset
 
-* [UFO Sightings Data](StarterCode/static/js/data.js)
+* [UFO Sightings Data](UFO-level-1/static/js/data.js)
 
 - - -
 
